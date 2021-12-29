@@ -2,8 +2,8 @@
 <p align="center">Opa! Tudo bem?! Estou cursando Análise e Desenvolvimento de Sistemas e estudo Java a mais de 1 ano!</p>
 <div align="center">
   <a href="https://github.com/frglucas">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=frglucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=frglucas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=frglucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frglucas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
